@@ -1,4 +1,4 @@
-<p align="center">Lista de Tarefas</p>
+<h1 align="center">Lista de Tarefas</h1>
 
 ## Assuntos abordados no projeto
 
