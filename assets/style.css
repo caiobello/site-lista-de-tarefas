@@ -1,0 +1,45 @@
+html {
+    background: #FAB464;
+    background-repeat: no-repeat;
+    height: 100%;
+    color: #8174ED;
+
+}
+
+body {
+    font-family: 'Montserrat', 'sans-serif', 'Mansalva', cursive;
+}
+
+h2, footer {
+    font-family: 'Montserrat';
+    color: #E07001;
+}
+
+button {
+    border: none;
+}
+
+.itens-comprados {
+text-decoration: line-through;
+}
+
+.borda-lista {
+    border-bottom: dotted 2px #E07001;
+}
+
+input:disabled {
+    border: none;
+    background: none;
+    color: black;
+}
+
+input {
+    border: none;
+    background: none;
+    color: black;
+}
+
+.rodape {
+    
+}
+
