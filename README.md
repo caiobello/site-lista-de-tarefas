@@ -16,4 +16,4 @@ Sinta-se à vontade para explorar as possibilidades e personalizar este projeto 
 * JavaScript
 
 ## Dev. Caio Bello 
-## Formação Alura JavaScrpit
+Formação Alura JavaScrpit
