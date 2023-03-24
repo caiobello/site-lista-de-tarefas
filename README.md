@@ -8,7 +8,7 @@ Este projeto tem como objetivo explorar a manipulação de objetos em JavaScript
 
 Ao trabalhar neste projeto, você terá a oportunidade de conhecer características importantes de desenvolvimento de código em JavaScript e criar métodos para receber dados da pessoa usuária.
 
-Sinta-se à vontade para explorar as possibilidades e personalizar este projeto de acordo com suas necessidades e objetivos. Esperamos que esta experiência seja enriquecedora e que você possa aprender muito com ela.
+Sinta-se à vontade para explorar as possibilidades e personalizar este projeto de acordo com suas necessidades e objetivos. Esperamos que esta experiência seja enriquecedora e que você possa se beneficiar com o projeto.
 
 ## Tecnologias utilizadas no projeto
 * HTML
