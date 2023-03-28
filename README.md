@@ -15,4 +15,4 @@ Sinta-se à vontade para explorar as possibilidades e personalizar este projeto 
 * CSS
 * JavaScript
 
-## Dev. Caio Bello 
+### Dev. Caio Bello 
